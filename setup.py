@@ -26,7 +26,6 @@ setup(
         "laion-clap",
         "prettytable",
         "pandas",
-        "openl3",
         "timm",
         "pedalboard",
         "hear21passt @ git+https://github.com/kkoutini/passt_hear21#egg=hear21passt",
