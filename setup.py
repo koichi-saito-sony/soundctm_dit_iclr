@@ -27,7 +27,6 @@ setup(
         "prettytable",
         "pandas",
         "openl3",
-        "tensorflow==2.13.0",
         "timm",
         "pedalboard",
         "hear21passt @ git+https://github.com/kkoutini/passt_hear21#egg=hear21passt",
