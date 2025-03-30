@@ -31,6 +31,6 @@ setup(
         "pedalboard",
         "hear21passt @ git+https://github.com/kkoutini/passt_hear21#egg=hear21passt",
         "numba",
-        "numpy==1.24.3",
+        "numpy==1.26.2",
     ],
 )
