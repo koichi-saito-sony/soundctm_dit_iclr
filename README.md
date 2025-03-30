@@ -1,6 +1,4 @@
-# [ICLR'25] SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation
-
-## [SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation](https://openreview.net/forum?id=KrK6zXbjfO)
+# [[ICLR'25] SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation](https://openreview.net/forum?id=KrK6zXbjfO)
 
 [Koichi Saito](https://scholar.google.com/citations?user=UT-g5BAAAAAJ), [Dongjun Kim](https://sites.google.com/view/dongjun-kim), [Takashi Shibuya](https://scholar.google.com/citations?user=XCRO260AAAAJ), [Chieh-Hsin Lai](https://chiehhsinjesselai.github.io/), [Zhi Zhong](https://scholar.google.com/citations?user=iRVT3A8AAAAJ), [Yuhta Takida](https://scholar.google.co.jp/citations?user=ahqdEYUAAAAJ), [Yuki Mitsufuji](https://www.yukimitsufuji.com/)
 
