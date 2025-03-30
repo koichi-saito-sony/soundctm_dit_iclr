@@ -22,6 +22,7 @@ setup(
         "ftfy",
         "wget",
         "x_transformers",
+        "descript-audiotools",
         "descript-audio-codec",
         "dac",
         "laion-clap",
