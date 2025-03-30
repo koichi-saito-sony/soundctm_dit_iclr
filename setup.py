@@ -17,7 +17,6 @@ setup(
         "diffusers",
         "transformers",
         "datasets",
-        "audiotools @ git+https://github.com/descriptinc/audiotools",
         "h5py",
         "ftfy",
         "wget",
