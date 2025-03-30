@@ -1,4 +1,4 @@
-# SoundCTM DIT 
+![image](https://github.com/user-attachments/assets/294ab95e-c661-4d15-a2b0-e2de67c987e7)# [ICLR'25] SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation
 ## [SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation](https://openreview.net/forum?id=KrK6zXbjfO)
 
 [Koichi Saito](https://scholar.google.com/citations?user=UT-g5BAAAAAJ), [Dongjun Kim](https://sites.google.com/view/dongjun-kim), [Takashi Shibuya](https://scholar.google.com/citations?user=XCRO260AAAAJ), [Chieh-Hsin Lai](https://chiehhsinjesselai.github.io/), [Zhi Zhong](https://scholar.google.com/citations?user=iRVT3A8AAAAJ), [Yuhta Takida](https://scholar.google.co.jp/citations?user=ahqdEYUAAAAJ), [Yuki Mitsufuji](https://www.yukimitsufuji.com/)
@@ -6,6 +6,9 @@
 Sony AI, Stanford University, and Sony Group Corporation
 
 ICLR 2025
+
+- Paper: [Openreview](https://openreview.net/forum?id=KrK6zXbjfO)
+- Chekpoints: [Hugging Face](https://huggingface.co/koichisaito/soundctm_dit/tree/main)
 
 ## Prerequisites
 
